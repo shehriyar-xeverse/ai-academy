@@ -1,0 +1,6 @@
+{
+  "name": "AI Humanoid Assistant Showcase",
+  "description": "A premium cinematic cyberpunk website for a futuristic AI Robot brand, featuring interactive custom cursor, modular tabbed subpages, glassmorphic UI, dynamic theme customizer, and rich visual animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
